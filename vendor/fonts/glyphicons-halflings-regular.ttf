@@ -189,7 +189,7 @@
             </li>
               <div class="clearfix"></div>
 
-            <!--<p align="right"><a href="http://www.srgit.biz/all-categories/" class="viwe-all">View all</a></p>
+            <!--<p align="right"><a href="https://www.srgit.biz/all-categories/" class="viwe-all">View all</a></p>
             <br />
 -->
           </ul>
@@ -205,7 +205,7 @@
       <div class="cart" align="right"><a href="../../../../cart/default.htm" style="color:#a7a7a7;"> Cart/<span>$
         0        </span></a>
         <div class="boder2"></div>
-        <form action="http://www.srgit.biz/contactController.php" method="post" id="search_rec">
+        <form action="https://www.srgit.biz/contactController.php" method="post" id="search_rec">
           <input type="hidden" name="mode" value="search_records"/>
           <input name="searh_text" id="search" type="text" placeholder="What are you looking for?" class="input-css" value="">
           <input name="" type="button" class="search" onclick="return chk_words();">
@@ -249,7 +249,7 @@ function chk_words(){
               <h2>Error ! <span>Page Not Found</span></h2>
             </div>
             <p>For Some Reason The Page You Requested Could Not Be Found On Our Server</p>
-            <!--<p><a href="javascript:history.go(-1);">&laquo; Go Back</a> / <a href="http://www.srgit.biz/home/">Go Home &raquo;</a></p>-->
+            <!--<p><a href="javascript:history.go(-1);">&laquo; Go Back</a> / <a href="https://www.srgit.biz/home/">Go Home &raquo;</a></p>-->
           </section>
         </div>
       </div>
@@ -281,11 +281,11 @@ function chk_words(){
   <li>/</li>
   <li><a href="../../../../about/default.htm">About</a></li>
   <li>/</li>
- <!-- <li><a href="http://www.srgit.biz/all-categories/">Categories</a></li>
+ <!-- <li><a href="https://www.srgit.biz/all-categories/">Categories</a></li>
   <li>/</li>-->
   <li><a href="../../../../web-template-categories/default.htm">Web templates</a></li>
   <li>/</li>
-  <!--<li><a href="http://www.srgit.biz/cms-templates/"> CMS Templates </a></li>-->
+  <!--<li><a href="https://www.srgit.biz/cms-templates/"> CMS Templates </a></li>-->
   <li><a href="../../../../wordpress-categories/default.htm"> WordPress </a></li>
   <li>/</li>
   <li><a href="../../../../contact/default.htm">Contact us </a></li>
